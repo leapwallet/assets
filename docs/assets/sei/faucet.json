@@ -5,6 +5,7 @@
     "type": "hcaptcha",
     "title": "Claim SEI token from faucet",
     "description": "1 SEI Testnet would be added to your wallet",
+    "success": "Claim successful. 1 SEI added to your wallet.",
     "captcha": { "key": "326103e3-d30a-4535-8cb1-d0e728f78ea6" }
   }
 }
